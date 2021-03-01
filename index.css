@@ -1,0 +1,90 @@
+*{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    margin-left: 90px;
+    margin-right: 50px;
+    text-align: left;
+}
+body{
+    padding: 0px;
+}
+h2{
+    padding-left: 125px;
+}
+article{
+    padding: 10px;
+}
+h1{
+    text-align: left;
+}
+.one{
+    border: 1px black solid;
+    margin-bottom: 5px;
+    background: lightskyblue;
+}
+.two{
+    border: 1px black solid;
+    margin-bottom: 5px;
+    background: lightgreen;
+}
+.three{
+    border: 1px black solid;
+    margin-bottom: 5px;
+    background: lightskyblue;
+}
+.four{
+    border: 1px black solid;
+    margin-bottom: 5px;
+    background: lightgreen;
+}
+.five{
+    border: 1px black solid;
+    margin-bottom: 8px;
+    background: lightskyblue;
+}
+h1{
+    padding-left: 20px;
+    border: 1px solid black;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    background: greenyellow;
+}
+nav{
+    text-align: left;
+    margin-bottom: 5px;
+    padding: 1px;
+    background: green;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    border: 1px solid black;
+}
+.div{
+    background: blue;
+    border: 1px solid black;
+}
+footer{
+    padding-left: 200px;
+    font-size: 30px;
+}
+.fot{
+    text-align: left;
+    font-size: 20px;
+    margin-left: -200px;
+}
+.fot a{
+    color: yellow;
+}
+.fot h3{
+    color: yellow;
+}
+.img{
+    padding-left: 160px;
+}
+.imgo{
+    padding-left: 125px;
+}
